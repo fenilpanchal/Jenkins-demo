@@ -1,7 +1,7 @@
 
 public class demo {
     public static void main(String[] args) {
-        System.out.println("Hello JAVA! V7");
+        System.out.println("HELLO JAVA! V7");
     }
 } 
 
